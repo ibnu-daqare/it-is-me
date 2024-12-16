@@ -1,0 +1,132 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+
+
+*{
+    margin: 0;
+    font-family: "DM Sans";
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 17px 50px;
+}
+.header ul{
+    display: flex;
+    gap: 50px;
+    font-size: 20px;
+    list-style: none;
+}
+.orderbtn{
+    background-color: #a27b5c;
+    padding: 20px 30px;
+    border: none;
+    color: white;
+    
+}
+.singbtn{
+    padding: 18px 30px;
+    border: 2px solid #a27b5c;
+    background-color: white;
+    margin-left: 20px;
+
+}
+.header span{
+    color: #a27b5c;
+}
+.main{
+    height: 650px;
+    background-color: #e6d0bd;
+    text-align: center;
+    padding-top: 50px;
+}
+.main h1 {
+    font-size: 100px;
+}
+.main img {
+    width: 1350px;
+    height: 400px;
+}
+.main h2{
+    margin-right: 470px;
+}
+.main h5 {
+    margin-right: 960px;
+    color: gray;
+}
+.blog {
+    display: flex;
+    margin: 10px 120px;
+    gap: 40px;
+    border-top: 1px solid grey;
+    padding: 20px;
+
+}
+.blog img {
+    width: 200px;
+}
+.blog2 {
+    display: flex;
+    margin: 10px 120px;
+    gap: 40px;
+    border-top: 1px solid grey;
+    padding: 20px;}
+    .blog2 img {
+        width: 200px;
+    }
+    .blog3 {
+        display: flex;
+        margin: 10px 120px;
+        gap: 40px;
+        border-top: 1px solid grey;
+        border-bottom: 1px solid grey;
+        padding: 20px;}
+        .blog3 img {
+            width: 200px;
+        }
+
+        .blog4 {
+            display: flex;
+            margin: 10px 120px;
+            gap: 40px;
+            border-top: 1px solid grey;
+            border-bottom: 1px solid grey;
+            padding: 20px;}
+            .blog4 img {
+                width: 200px;
+            }
+            .blog5 {
+                display: flex;
+                margin: 10px 120px;
+                gap: 40px;
+                border-top: 1px solid grey;
+                border-bottom: 1px solid grey;
+                padding: 20px;}
+                .blog5 img {
+                    width: 200px;
+                    
+                }
+                .btn-parent {
+                    text-align: center;
+                    margin-top: 30px;
+                }
+                .footer{
+                    margin-top: 30px;
+                    height: 400px;
+                    background-color: black;
+                    color: white;
+                    text-align: center;
+
+                }
+                .footer h1 {
+                    font-size:  60px; ;
+                    padding: 60px;
+                }
+                .footer hr {
+                    margin: 30px 70px;
+                }
+                .footer p {
+                    font-size: 18px;
+                }
+                
